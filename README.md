@@ -1,4 +1,4 @@
-# SmartStocker
+# Inventory Management System
 
 ## Overview
 **SmartStocker** is a software application designed to help store operators efficiently manage electronic product inventory. It allows users to **add, update, remove, and search for products** in a centralized database.
