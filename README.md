@@ -28,6 +28,8 @@ We focused on establishing the core product data model and implementing fundamen
 In order to use the project's embedded artifical intelligence assistant, you must visit google's [ai studio](https://aistudio.google.com/app/apikey) and generate an API key. Then, navigate to python_/code/ai/AI.py and replace the commented code on line 16 with your generated API key.
 
 ## Collaborators 
+- Farid Jamshid
+
 - Nathan Tandory
 
 - Myron Lobo
